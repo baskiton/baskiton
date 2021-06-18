@@ -1,10 +1,15 @@
-### Hi there 👋
+[![GitHub Profile views](https://komarev.com/ghpvc/?username=baskiton)](https://github.com/baskiton)
+[![GitHub followers](https://img.shields.io/github/followers/baskiton?label=GitHub%20followers&style=flat)](https://github.com/baskiton?tab=followers)
+[![GitHub Org's stars](https://img.shields.io/github/stars/baskiton?label=Stars&style=flat)](https://github.com/baskiton?tab=repositories&q=&type=source&language=&sort=stargazers)
+
+![](https://github-readme-stats.vercel.app/api?username=baskiton&count_private=true&show_icons=true&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=baskiton&theme=default&layout=compact&card_width=445&langs_count=10)
+
+##### Follow me:
+<a href="https://t.me/baskiton"><img src="https://img.icons8.com/color/32/000000/telegram-app--v1.png"/></a>
+<a href="https://vk.com/baskiton"><img src="https://img.icons8.com/color/32/000000/vk-com.png"/></a>
 
 <!--
-**baskiton/baskiton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
